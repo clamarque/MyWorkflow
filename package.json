@@ -5,7 +5,7 @@
   "url": "https://github.com/npm/npm.git"
   },
   "version": "1.0.0",
-  "description": "MyworkFlow\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[W\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "description": "Create MyworkFlow",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
