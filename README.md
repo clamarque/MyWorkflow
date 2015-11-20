@@ -13,7 +13,7 @@ He is necessary to put the source code into your project directory. 2 way to do 
 - Clone the repository to your project folder on your local development envrionment
 
 Then, use the terminal or command prompt your computer for go in your project folder:
-- type <code> npm install </code> as command prompt or in the terminal your computer for install the node modules (this will install the dependencies from the package.json file and create a repository 'node_modules' in your project folder).
+- type <code> npm install </code> as command prompt or in the terminal your computer for install the node modules (this will install the dependencies from the package.json file and create a folder 'node_modules' in your project folder).
 
 
 
