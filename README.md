@@ -2,7 +2,7 @@
 
 a simple starter workflow basic web develoment projects that uses Gulp and SASS
 
-## Step 1: required software<
+## Step 1: required software
 
 <p>you need install node.js for use the line command 'npm' on your computer</p>
 
