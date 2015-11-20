@@ -1,9 +1,10 @@
-# MyWorkflow
+# My Web Development MyWorkflow
 
-Worflow with gulp.js
+a simple starter workflow basic web develoment projects that uses Gulp and SASS
 
-<h1>Step 1</h1>
-<p>clone the repository</p>
+<h2>Step 1: required software</h2>
 
-<h1>Step 2 </h1>
+<p>you need install node.js for use the line command 'npm' on your computer</p>
+
+<h2>Step 2: getting started</h2>
 <p>CLI: npm install</p>
