@@ -13,11 +13,20 @@ He is necessary to put the source code into your project directory. 2 way to do 
 - Clone the repository to your project folder on your local development envrionment
 
 Then, use the terminal or command prompt your computer for go in your project folder:
-- type <code> npm install </code> as command prompt or in the terminal your computer for install the node modules (this will install the dependencies from the package.json file and create a folder 'node_modules' in your project folder).
+- Type <code> npm install </code> as command prompt or in the terminal your computer for install the node modules (this will install the dependencies from the package.json file and create a folder 'node_modules' in your project folder).
 
 Note: Make sure your .gitignore file is ignoring your modules!
 
-### Gulp Task
+## Gulp Task
+
+### 'Gulp'
+
+Type <code>gulp</code> in your terminal will run the build task from your gulpfile.js file. This will do the following:
+- Concatenates all sass files (including partials) into a single css file and saves it to folder css
+- Concatenates all js files into a single js file and saves it to folder JS
+- Watches for changes js, and sass files (Gulp watch)
+- Add auto-prefixer in CSS (Gulp pleeease
+- Notification of completion of procedures (Gulp notify)
 
 
 
