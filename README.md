@@ -15,6 +15,11 @@ He is necessary to put the source code into your project directory. 2 way to do 
 Then, use the terminal or command prompt your computer for go in your project folder:
 - type <code> npm install </code> as command prompt or in the terminal your computer for install the node modules (this will install the dependencies from the package.json file and create a folder 'node_modules' in your project folder).
 
+Note: Make sure your .gitignore file is ignoring your modules!
+
+### Gulp Task
+
+
 
 
 
