@@ -1,8 +1,8 @@
 {
   "name": "package.json",
-  "repository":
-  {"type": "git",
-  "url": "https://github.com/clamarque/MyWorkflow_.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clamarque/MyWorkflow_.git"
   },
   "version": "1.0.0",
   "description": "Create MyworkFlow",
@@ -13,10 +13,17 @@
   "author": "clamarque",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-notify": "^2.2.0",
-    "gulp-pleeease": "^2.0.2",
-    "gulp-plumber": "^1.0.1",
-    "gulp-sass": "^2.1.0"
+    "gulp": "latest",
+    "gulp-cli": "latest",
+    "gulp-cssbeautify": "latest",
+    "gulp-csscomb": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-load-plugins": "latest",
+    "gulp-notify": "latest",
+    "gulp-pleeease": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "mkdirp": "^0.5.1"
   }
 }
