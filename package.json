@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "clamarque",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "devDependencies": {
     "gulp": "latest",
     "gulp-cli": "latest",
