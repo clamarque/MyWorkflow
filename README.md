@@ -4,7 +4,7 @@ This directory contains a simple but fast script (gulpfile) to optimize the imag
 
 ## Required software
 
-<p>you need install **node.js** for use the line command <code>npm</code> on your computer</p>
+You need install **node.js** for use the line command <code>npm</code> on your computer (mkdirp):
 
 ## Getting started
 
@@ -30,7 +30,7 @@ Unless they already exist. This step is **optional** and you can comment the cod
 
 ### Gulp build
 
-Type <code>gulp build</code> in your terminal to convert your SASS (or LESS) files to CSS files.
+Type <code>gulp build</code> in your terminal to convert your SASS (or LESS) files to CSS files (task sass).
 This will do the following:
 
  - Convert all SASS files into a single CSS file
@@ -58,7 +58,7 @@ This will do the following:
 
 ### Gulp watch
 
-- Watches for changes JS and SASS files 
+- Watches for changes JS and SASS files using the task build
 
 
 
