@@ -4,7 +4,7 @@ This directory contains a simple but fast script (gulpfile) to optimize the imag
 
 ## Required software
 
-You need install **node.js** for use the line command <code>npm</code> on your computer (mkdirp):
+You need install **node.js** for use the line command <code>npm</code> on your computer.
 
 ## Getting started
 
@@ -20,7 +20,7 @@ Note: Make sure your .gitignore file is ignoring your modules!
 
 ## Gulp Task
 
-By typing <code>gulp</code> or anothers tasks in your terminal, this will create 2 defaults folders
+By typing <code>gulp</code> or anothers tasks in your terminal, this will create 2 defaults folders (mkdirp):
 - assets
 - public
 
