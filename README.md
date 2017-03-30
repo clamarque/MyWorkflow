@@ -11,12 +11,12 @@ You need install **node.js** for use the line command <code>npm</code> on your c
 He is necessary to put the file 'gulpfile' into your project directory. 2 way to do this:
 - Download a zip of the repository and extract it to your project folder on your local development environment  
 or  
-- Clone the repository to your project folder on your local development envrionment
+- Clone the repository to your project folder on your local development environment
 
 Then, use the terminal or command prompt your computer for go in your project folder:
 - Type <code> npm install </code> as command prompt or in the terminal your computer for install the node modules (this will install the dependencies from the package.json file and create a folder 'node_modules' in your project folder).
 
-Note: Make sure your .gitignore file is ignoring your modules!
+**Make sure your .gitignore file is ignoring your modules!**
 
 ## Gulp Task
 
@@ -40,17 +40,13 @@ This will do the following:
  - Checking your HTML file to remove unused CSS class (uncss | **optional**)
  - Notification of completion of procedures (notify)
 
-### Gulp optimization
-
-Type <code>gulp optimization</code> in your terminal to optimize the images (imagesmin)
-
 ### Gulp prod
 
 Type <code>gulp prod</code> in your terminal to get your files ready for production.
 This will do the following:
 
 - Use the task "build"
-- Use the task "optimization"
+- Optimize the images (gulp-imagesmin)
 - Adding auto-prefixers in CSS file and minify it(pleeease)
 - rename CSS file with the suffix 'min' (rename)
 - Notification of completion of procedures (notify)
