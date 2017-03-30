@@ -2,10 +2,10 @@
   "name": "package.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clamarque/MyWorkflow_.git"
+    "url": "https://github.com/clamarque/workflow.git"
   },
   "version": "1.0.0",
-  "description": "Create MyworkFlow",
+  "description": "Creating a work environment to optimize images and convert style sheets while optimizing them",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
